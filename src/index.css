@@ -13,6 +13,6 @@
         font-style: normal;
     }
     body {
-        @apply font-switzer w-screen h-screen bg-black text-white selection:bg-white selection:text-black;
+        @apply font-switzer w-screen min-h-screen bg-black text-white selection:bg-white selection:text-black;
     }
 }
